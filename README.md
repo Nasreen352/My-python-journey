@@ -1,23 +1,45 @@
-Master of Applied Biomolecular Technology
-Transitioning to IT career (Fachinformatiker)
-Learning Python programming
-Passionate about combining Biology and Technology     
+# About Me
+- Master of Applied Biomolecular Technology (University of Nottingham)
+- Transitioning from Biology to IT career (Fachinformatiker)
+- Learning Python programming with focus on Data Analysis
+- Combining scientific background with technology skills
 
-Skills
-Python (Basics - Learning)
-Biology research & sceintific anaylsis
-Analytical thinking & Problem Soloving
-MS Office, Excel
+# Python & Programming Skills
+- Python (basics - learning)
+- DNA Sequence Analysis
+- Data Analysis (SPSS, Biostatistics)
+- Data Entry experience
 
-Projects
-Learning Python basics
-Building programming skills step by step
+## Key Projects
+- **DNA Sequence Analyzer (Python)**
+  GitHub: github.com/Nasreen352/My-python-journey
 
-Aims
-Complete Fachinformatiker Ausbildung
-Specialize in Bioinformatik or Data Science
-Build a career in Technology
+# Academic Background
+- MSc in Applied Biomolecular Technology (University of Nottingham)
+  - Included: Bioinformatics, Molecular Biology, Biotechnology
+  
+- BSc in Biology (Salahaddin University)
+  - Included: Molecular Biology, Biochemistry, Microbiology
 
-Contact
-Email: nasreen.jala@yahoo.com
-GitHub: github.com/Nasreen352
+# Work Experience
+- Biological/Technical Assistant (Regensburg University)
+  Laboratory research, data documentation, biochemical experiments
+- Assistant Lecturer (Salahaddin University)
+  Teaching, research, student supervision
+- GIZ Project (Data Entry & Reporting)
+
+# Skills
+- Python Programming (basics) 
+- Data Analysis & Statistics (SPSS) 
+- MS Office Suite
+- Analytical thinking & Problem-solving
+- English (C2) | German (B2)
+
+# Aims
+- Complete Fachinformatiker Ausbildung
+- Specialize in Bioinformatik or Data Science
+- Build career in technology sector
+
+# Contact
+- Email: nasreen.jala@yahoo.com
+- GitHub: github.com/Nasreen352/My-python-journey
